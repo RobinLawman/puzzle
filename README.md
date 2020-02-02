@@ -1,4 +1,4 @@
-# puzzle
-8 puzzle prblem solver, AI
+# 8 puzzle problem solver using AI
 
-tis is a test branch still learning git lol 
+This uses an A* search technique and seems pretty efficient,
+it should work for any puzzle as long as its solvable.
